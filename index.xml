@@ -6,9 +6,37 @@
     <description>Recent content on 我的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 18 Dec 2019 13:37:11 +0800</lastBuildDate>
     
 	<atom:link href="https://clown-magician.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>San</title>
+      <link>https://clown-magician.github.io/post/san/</link>
+      <pubDate>Wed, 18 Dec 2019 13:37:11 +0800</pubDate>
+      
+      <guid>https://clown-magician.github.io/post/san/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F2</title>
+      <link>https://clown-magician.github.io/post/f2/</link>
+      <pubDate>Wed, 18 Dec 2019 09:00:13 +0800</pubDate>
+      
+      <guid>https://clown-magician.github.io/post/f2/</guid>
+      <description>第二次提交</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://clown-magician.github.io/post/blog/</link>
+      <pubDate>Tue, 17 Dec 2019 20:01:37 +0800</pubDate>
+      
+      <guid>https://clown-magician.github.io/post/blog/</guid>
+      <description>你好，这是我的第一篇博客 hugo new post/first.md 13 vim first.md 14 hugo server &amp;ndash;theme = &amp;ldquo;air&amp;rdquo; 15 hugo server &amp;ndash;theme = air 16 hugo server 17 hugo server 18 cd public 19 git init 20 git add * 21 git commit -m &amp;ldquo;word&amp;rdquo; 22 git remote add origin https://github.com/clown-magician/zhBlog.git 23 git push -u origin master 24 git pull origin master 25 git push -u origin master 26 cd .. 27 cd .. 28 rm -rf zhBlog 29 dir 30 hugo new site myBlog 31 ls 32 cd myBlog 33 ls 34 git 35 cd themes 36 git clone https://github.</description>
+    </item>
     
   </channel>
 </rss>
