@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>我的博客</title>
     <link>https://clown-magician.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 我的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2019 09:00:13 +0800</lastBuildDate>
     
 	<atom:link href="https://clown-magician.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>F2</title>
-      <link>https://clown-magician.github.io/post/f2/</link>
-      <pubDate>Wed, 18 Dec 2019 09:00:13 +0800</pubDate>
-      
-      <guid>https://clown-magician.github.io/post/f2/</guid>
-      <description>第二次提交</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://clown-magician.github.io/post/blog/</link>
-      <pubDate>Tue, 17 Dec 2019 20:01:37 +0800</pubDate>
-      
-      <guid>https://clown-magician.github.io/post/blog/</guid>
-      <description>你好，这是我的第一篇博客 $ history 1 dir 2 g: 3 g 4 cd . 5 cd .. 6 cd .. 7 cd .. 8 g: 9 cd g 10 cd hugo 11 cd zhBlog 12 hugo new post/first.md 13 vim first.md 14 hugo server &amp;ndash;theme = &amp;ldquo;air&amp;rdquo; 15 hugo server &amp;ndash;theme = air 16 hugo server 17 hugo server 18 cd public 19 git init 20 git add * 21 git commit -m &amp;ldquo;word&amp;rdquo; 22 git remote add origin https://github.</description>
-    </item>
     
   </channel>
 </rss>
