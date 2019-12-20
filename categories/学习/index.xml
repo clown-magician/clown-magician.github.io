@@ -17,7 +17,7 @@
       <pubDate>Wed, 18 Dec 2019 13:37:11 +0800</pubDate>
       
       <guid>https://clown-magician.github.io/post/san/</guid>
-      <description>Windows+hugo创建属于自己的博客网站 </description>
+      <description>Windows+hugo创建属于自己的博客网站 一、下载hugo(下载地址：https://github.com/gohugoio/hugo/releases)  下载自己所需的压缩包就行，我用的是Win10系统所以选的是：hugo_0.61.0_Windows-64bit.zip 解压后可以将hugo.exe文件放入自己创建的文件夹中，方便查找。我的是G:\hugo\bin 在环境变量path中配置hugo的路径，到hugo.exe的上一层目录即可，放在结尾记得加上英文分号。   </description>
     </item>
     
   </channel>
